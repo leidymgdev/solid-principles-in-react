@@ -1,8 +1,7 @@
-import ActiveUsersList from "./components/ActiveUsersList"
 
 function App() {
   return (
-    <ActiveUsersList/>
+    <p>Practicing Solid Principles in React</p>
   )
 }
 
